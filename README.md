@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz 
 
 ## Installation
 Öncelikle projeyi clonelayın.
-`https://github.com/umuturukk/kodluyoruzilkrepo.git`
+```https://github.com/umuturukk/kodluyoruzilkrepo.git```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
